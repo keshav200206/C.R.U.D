@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "ronaldo",
+      "username": "CR7",
+      "email": "CR7@gmail.com",
+      "phone": "9876543211"
+    },
+    {
+      "id": "2",
+      "name": "messi",
+      "username": "LM10",
+      "email": "LM10@gmail.com",
+      "phone": "9876543210"
+    }
+  ]
+}
